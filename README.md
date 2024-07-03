@@ -4,7 +4,8 @@
 - 📫 How to reach me: beatrizoliveiradejesus07@gmail.com
 - 😄 Pronouns: She/Her 
 
-![Bitcoin Cash](https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=for-the-badge&logo=Bitcoin%20Cash&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 
 <!---
 Bia0712/Bia0712 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
